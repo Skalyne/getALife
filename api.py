@@ -51,10 +51,3 @@ class MainCharacter:
 
 	if self.health >= 100:
 		self.health = 100
-
-
-
-
-
-
-
